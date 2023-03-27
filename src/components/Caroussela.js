@@ -1,6 +1,7 @@
 import React from 'react'
 import SwipeableViews from 'react-swipeable-views';
 import { autoPlay } from 'react-swipeable-views-utils';
+import "../filescss/carousela.css"
 
 const AutoPlaySwipeableViews = autoPlay(SwipeableViews);
 
